@@ -74,7 +74,8 @@ import unity from '../assets/svg/skills/unity.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
-
+import node from '../assets/svg/skills/node.svg'
+import Laravel from '../assets/svg/skills/laravel.svg'
 
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
@@ -227,6 +228,10 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'node':
+            return node;
+        case 'laravel':
+            return Laravel;;
         default:
             break;
     }

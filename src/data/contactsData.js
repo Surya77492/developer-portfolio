@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'janedoe.test@gmail.com',
-    phone: '+915588776600',
-    address: 'Menlo Park, California, United States - 673822 ',
-
+    email: 'suryaalagar173@gmail.com',
+    phone: '+91 638388 3745',
+    address: 'Rathinapuri, Coimbaore, Tamilnadu, India - 641027',
+    github: 'SuryaWHRP',
     sheetAPI: ''
 }
